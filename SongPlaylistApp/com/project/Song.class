@@ -1,0 +1,21 @@
+Êþº¾   7 1
+  	  	        !  " title Ljava/lang/String; duration D <init> (Ljava/lang/String;D)V Code LineNumberTable LocalVariableTable this Lcom/project/Song; ()V getTitle ()Ljava/lang/String; 
+getDuration ()D toString 
+SourceFile 	Song.java 
+     	 
+ BootstrapMethods # $ % & com/project/Song java/lang/Object
+ ' ( Song{title='', duration=} makeConcatWithConstants '(Ljava/lang/String;D)Ljava/lang/String;  ) % - $java/lang/invoke/StringConcatFactory  / Lookup InnerClasses ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite;  0 %java/lang/invoke/MethodHandles$Lookup java/lang/invoke/MethodHandles !             	 
+     
+   
+   Y     *· *+µ *(µ ±               	 	  
+                        	 
+   
+   
+   3     *· ±       
+    
+  
+                 
+   /     *´ °                            
+   /     *´ ¯                            
+   8     *´ *´ º   °                              ,   
+  * . +         
